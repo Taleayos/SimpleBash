@@ -7,3 +7,4 @@ s21_grep: s21_grep.c
 
 clean:
 	rm -rf s21_grep
+.
